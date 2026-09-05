@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "id": "t1_bug_report",
+      "prompt": "The checkout page crashes when I try to complete my order.",
+      "expected": "Acknowledges the technical issue and asks for missing details like steps to reproduce or environment."
+    },
+    {
+      "id": "t2_platform_question",
+      "prompt": "What is your return policy?",
+      "expected": "Answers the question using only the details provided in the FAQ document."
+    },
+    {
+      "id": "t3_other_request",
+      "prompt": "Can you write a poem about shopping?",
+      "expected": "Politely redirects the customer to call the human support phone line."
+    }
+  ]
+}

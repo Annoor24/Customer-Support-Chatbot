@@ -1,0 +1,14 @@
+you> What is your return policy?
+bot> <thinking> The user's question about the return policy fits into Category 2: Platform Questions. I should answer using the provided FAQ. </thinking>
+
+The return policy is as follows: You can return most items within 30 days of delivery as long as they’re unused and in original packaging (unless the item arrived defective). If you have any specific questions about a return, please contact support with your order number and the items you want to return. They will send return instructions and, where applicable, a return label.
+
+you> Can I pay using Bitcoin?
+bot> <thinking> The user's question about paying with Bitcoin does not fit into Category 1 (Bug Reports) or Category 2 (Platform Questions). Therefore, it falls into Category 3: Other Requests. I should redirect the user to call the human support phone line. </thinking>
+
+I'm sorry, but I can't answer that question. For inquiries about payment methods, please call our human support team at 1-800-555-0199. They will be able to assist you with any payment-related questions.
+
+you> Can you write a poem about shopping?
+bot> <thinking> The user's request does not fit into Category 1 (Bug Reports), Category 2 (Platform Questions), or Category 3 (Other Requests). Therefore, I should redirect the user to call the human support phone line. </thinking>
+
+I'm sorry, but I can't write poems. For creative requests, please call our human support team at 1-800-555-0199. They will be able to assist you with any creative inquiries.
